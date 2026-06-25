@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,8 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0055-jump-game) |
 ## Database
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0181-employees-earning-more-than-their-managers) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 ## Database
 |  |
 | ------- |
@@ -39,11 +41,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

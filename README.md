@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 | [0164-maximum-gap](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0739-daily-temperatures) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -114,14 +116,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -130,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0035-search-insert-position) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

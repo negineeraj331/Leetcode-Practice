@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -120,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -151,4 +156,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

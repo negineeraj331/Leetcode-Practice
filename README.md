@@ -41,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

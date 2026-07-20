@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0053-maximum-subarray) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0695-max-area-of-island) |

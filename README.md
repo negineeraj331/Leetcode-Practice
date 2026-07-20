@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0066-plus-one) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0739-daily-temperatures) |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0739-daily-temperatures) |

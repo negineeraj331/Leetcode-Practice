@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0853-car-fleet) |
+| [0904-fruit-into-baskets](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |

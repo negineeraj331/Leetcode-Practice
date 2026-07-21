@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0595-big-countries) |
+| [1280-students-and-examinations](https://github.com/negineeraj331/Leetcode-Practice/tree/master/1280-students-and-examinations) |
 ## Greedy
 |  |
 | ------- |

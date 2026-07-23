@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
@@ -237,4 +240,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0133-clone-graph) |
+| [0743-network-delay-time](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

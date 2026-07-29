@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0066-plus-one) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0853-car-fleet) |

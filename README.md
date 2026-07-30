@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 | [0494-target-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0542-01-matrix) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0049-group-anagrams) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0743-network-delay-time) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

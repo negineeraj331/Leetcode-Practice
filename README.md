@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0035-search-insert-position) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0035-search-insert-position) |
 ## Heap (Priority Queue)

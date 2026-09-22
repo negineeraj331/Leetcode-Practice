@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0743-network-delay-time) |
@@ -291,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0155-min-stack) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

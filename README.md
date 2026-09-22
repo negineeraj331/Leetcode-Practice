@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0853-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0973-k-closest-points-to-origin) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/negineeraj331/Leetcode-Practice/tree/master/0746-min-cost-climbing-stairs) |
 ## Database
 |  |
 | ------- |
